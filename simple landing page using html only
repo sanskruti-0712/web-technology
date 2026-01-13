@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1><b>Auralite buds</b></h1>
+    <h5><i>sound that gives you a new experience</i></h5>
+  
+        
+    <img src="image.png" alt="Auralite buds" width="240" height="240">
+    <br>
+    <video width="640" height="360" controls>
+    <source src="video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+      
+    <p>Earbuds for Auralite Earbuds Original Like True Wireless Bluetooth
+         in-Ear Headphones Earphones TWS with Mic, Touch Controls, Deep Bass, Sports (38 Hours Case, OPBR1)</p>
+    <p>-50%  $19.99</p>
+    <p>M.R.P <s>$39.99 </s></p>
+    <button type="button">Add to cart</button>
+    <button type="button">Buy now</button>
+    <p>45 dB Hybrid Active Noise Cancellation <br> Enjoy immersive sounds capes with industry-leading ANC that cancels out up to 45 dB of ambient noise across a wide 5000Hz frequency band.
+HD Microphones with Clear Voice Tech<br> – Equipped with six precision microphones and an advanced noise reduction algorithm to ensure crystal-clear calls, even in windy environments.
+12.4mm Dynamic Bass Boost Drivers<br>– Experience punchy, ultra-deep bass with real-time audio optimization that enhances low frequencies for cinematic sound.
+Up to 38 Hours Battery Life <br>-Get 11 hours of playback with the earbuds alone (ANC off) and up to 38 hours including the charging case <br>– perfect for extended listening sessions.
+Minimalist Lightweight Design <br>– Designed with aesthetics and comfort in mind, the lightweight ergonomic fit ensures long-lasting wear without fatigue.</p>
+    <p>⭐⭐⭐⭐⭐ (23 Reviews)</p>
+
+    <p>     
+<h3>Product description</h3>
+<b>Silence in Style.</b>
+<br>
+Elevate your sound with a touch of style. Designed to match your vibe, Buds blends minimalist aesthetics with performance-driven audio.
+<br>
+<b>All Day, All Night Playback</b><br>
+Enjoy 12 hours of music on a single charge and up to 38 hours total with the case — plus fast charging
+<br>
+<b>Control at Your Fingertips</b><br>
+Tap, hold, or swipe to manage music, calls, ANC, and volume.
+<br>
+<b>Smart Voice, Smarter You</b><br>
+Experience the future of hands-free assistance.
+<br>
+<b>Power Meets Precision – All the Specs You Need</b>
+<br>
+From ultra bass to IP54 dust & water resistance, explore the perfect balance of immersive sound, crystal-clear calls, and smart features built for your lifestyle.</p>
+    </p>
+
+
+<h2>Product Details</h2>
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr>
+        <th align="left">Attribute</th>
+        <th align="left">Details</th>
+    </tr>
+    <tr>
+        <td>Brand</td>
+        <td>GoSale</td>
+    </tr>
+    <tr>
+        <td>Model</td>
+        <td>Auralite Buds</td>
+    </tr>
+    <tr>
+        <td>Special Features</td>
+        <td>Microphone Included, Noise Isolation, Sweatproof</td>
+    </tr>
+    <tr>
+        <td>Connector Type</td>
+        <td>Wireless</td>
+    </tr>
+    <tr>
+        <td>Country of Origin</td>
+        <td>India</td>
+    </tr>
+</table>
+
+<h2>Customer Feedback</h2>
+
+<form>
+    <p>
+        <label>
+            Full Name:<br>
+            <input type="text" name="fullname">
+        </label>
+    </p>
+
+    <p>
+        <label>
+            Email Address:<br>
+            <input type="email" name="email">
+        </label>
+    </p>
+
+    <p>
+        <label>
+            How would you rate the product?<br>
+            <input type="radio" name="rating" value="excellent"> Excellent
+            <input type="radio" name="rating" value="good"> Good
+            <input type="radio" name="rating" value="average"> Average
+            <input type="radio" name="rating" value="poor"> Poor
+        </label>
+    </p>
+
+    <p>
+        <label>
+            What features did you like? (Select all that apply)<br>
+            <input type="checkbox" name="feature" value="sound"> Sound Quality
+            <input type="checkbox" name="feature" value="battery"> Battery Life
+            <input type="checkbox" name="feature" value="comfort"> Comfort
+            <input type="checkbox" name="feature" value="design"> Design
+        </label>
+    </p>
+
+    <p>
+        <label>
+            Additional Comments:<br>
+            <textarea name="comments" rows="4" cols="40"></textarea>
+        </label>
+    </p>
+
+    <p>
+        <input type="submit" value="Submit Feedback">
+        <input type="reset" value="Reset">
+    </p>
+</form>
+
+
+</body>
+</html>
